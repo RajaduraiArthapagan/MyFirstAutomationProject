@@ -28,4 +28,10 @@ public class DataProviderTest
         Thread.sleep(5000);
 
     }
+
+    @Test
+    public void sampleTest()
+    {
+        
+    }
 }
